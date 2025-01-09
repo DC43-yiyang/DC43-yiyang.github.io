@@ -18,16 +18,29 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      # - title: Lunch & Learn ☕️
+      #   content: 'Share your knowledge with the group and explore exciting new topics together!'
+      #   align: left
+      #   background:
+      #     image:
+      #       filename: contact.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: center
+      #     color: '#555'
+      - title: Statistical Methods Development for 3D Genomics Data Analysis
+        content: Developing advanced statistical methods and computational tools for analyzing 3D genome structure data, with applications in understanding gene regulation mechanisms and disease-associated genetic variants.
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: 3D_Pre.png
             filters:
               brightness: 0.7
-          position: center
-          color: '#555'
+          position: right
+          color: '#666'
+        link:
+          text: Explore this Project
+          url: https://dc43-yiyang.github.io/project/3d_genomics/
       - title: Compbio Wizard Lab
         content: 'We are hiring!'
         align: right
