@@ -8,8 +8,9 @@ tags:
 - Data Integration
 - CITE-seq
 
-authors:
-- Ye Zheng
+date: "2025-01-09"
+authors: 
+  - Ye Zheng
 
 external_link: ""
 
