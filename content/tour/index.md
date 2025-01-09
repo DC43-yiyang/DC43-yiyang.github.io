@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: banner.png
             filters:
               brightness: 0.7
           position: right
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Compbio Wizard Lab
+        content: 'We are hiring!'
         align: right
         background:
           image:
