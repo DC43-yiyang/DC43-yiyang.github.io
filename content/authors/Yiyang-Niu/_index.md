@@ -8,7 +8,7 @@ last_name: Niu
 
 # Username (this should match the folder name)
 authors:
-  - Yiyang
+  - Yiyang-Niu
 
 # Is this the primary user of the site?
 superuser: true
