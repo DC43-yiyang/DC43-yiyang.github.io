@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: "Compbio Wizard Group @ MD Anderson"  
+      title: "Compbio Wizard Lab @ MD Anderson"  
       subtitle: ""
       text: |
         <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
