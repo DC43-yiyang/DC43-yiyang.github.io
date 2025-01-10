@@ -1,6 +1,6 @@
 ---
 title: Statistical Methods Development for 3D Genomics Data Analysis
-date: "2022-07-25"
+date: "2022-08-25"
 weight: 20
 summary: Developing advanced statistical methods and computational tools for analyzing 3D genome structure data, with applications in understanding gene regulation mechanisms and disease-associated genetic variants.
 
