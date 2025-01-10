@@ -1,22 +1,24 @@
 ---
 title: Research Projects
+subtitle: ''
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: Research Projects
+      subtitle: ''
+    design:
+      spacing: {padding: [0, 0, 0, 0]}
+      
   - block: portfolio
     id: projects
     content:
-      title: Research Projects
       filters:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
       default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
           tag: '*'
@@ -31,9 +33,9 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: masonry
+      view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
       # Toggle between the various page layout types.
       #   1 = List
       #   2 = Compact
@@ -41,3 +43,5 @@ sections:
       #   5 = Showcase
       spacing: {padding: [0, 0, 0, 0]}
 ---
+
+See our current research projects below, which can be filtered by the tags. Explore a [list of all projects >>](./project/)
