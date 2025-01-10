@@ -66,8 +66,8 @@ sections:
                 <div class="splide__slide__container">
                   <center>
                     <div class="slide-container">
-                      <div data-src="media/coders.jpg" data-fancybox="gallery" data-caption="Group Meeting">
-                        <img style="height: 375px" src="media/coders.jpg">
+                      <div data-src="media/banner.png" data-fancybox="gallery" data-caption="Group Meeting">
+                        <img style="height: 375px" src="media/banner.png">
                       </div>
                       <a href="https://dc43-yiyang.github.io/people/" class="project-link" onclick="event.stopPropagation()">
                         Meet the CompBio Wizards
@@ -81,8 +81,8 @@ sections:
                 <div class="splide__slide__container">
                   <center>
                     <div class="slide-container">
-                      <div data-src="media/contact.jpg" data-fancybox="gallery" data-caption="Research Projects">
-                        <img style="height: 375px" src="media/contact.jpg">
+                      <div data-src="media/banner.png" data-fancybox="gallery" data-caption="Research Projects">
+                        <img style="height: 375px" src="media/banner.png">
                       </div>
                       <a href="https://dc43-yiyang.github.io/project/" class="project-link" onclick="event.stopPropagation()">
                         See Our Exciting Research
@@ -96,8 +96,8 @@ sections:
                 <div class="splide__slide__container">
                   <center>
                     <div class="slide-container">
-                      <div data-src="media/coders.jpg" data-fancybox="gallery" data-caption="Software">
-                        <img style="height: 375px" src="media/coders.jpg">
+                      <div data-src="media/banner.png" data-fancybox="gallery" data-caption="Software">
+                        <img style="height: 375px" src="media/banner.png">
                       </div>
                       <a href="https://dc43-yiyang.github.io/software/" class="project-link" onclick="event.stopPropagation()">
                         See Our Exciting Software
@@ -111,8 +111,8 @@ sections:
                 <div class="splide__slide__container">
                   <center>
                     <div class="slide-container">
-                      <div data-src="media/contact.jpg" data-fancybox="gallery" data-caption="Contact">
-                        <img style="height: 375px" src="media/contact.jpg">
+                      <div data-src="media/banner.png" data-fancybox="gallery" data-caption="Contact">
+                        <img style="height: 375px" src="media/banner.png">
                       </div>
                       <a href="https://dc43-yiyang.github.io/contact/" class="project-link" onclick="event.stopPropagation()">
                         Address
